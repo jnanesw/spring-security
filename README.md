@@ -42,7 +42,7 @@ src/main/java/com/example/security
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/spring-security-jwt.git
+git clone <link>
 cd spring-security-jwt
 
 
